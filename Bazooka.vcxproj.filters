@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Hero">
+      <UniqueIdentifier>{6c5c381c-a382-4091-894e-b4959e3a1466}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Enemy">
+      <UniqueIdentifier>{4f4882ef-b730-4f84-a022-b005a6e46061}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Rocket">
+      <UniqueIdentifier>{20e2dee3-25e9-44ed-98da-ad49d5ab25b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scenes">
+      <UniqueIdentifier>{cfec7df9-c3cb-4026-be52-061365242316}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Explosion">
+      <UniqueIdentifier>{b26ee272-aeee-4ab3-a07b-f582c1df3f7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SceneController">
+      <UniqueIdentifier>{ba6d4d97-28ab-4f4a-80d7-39b441caa073}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Includes\Hero\Hero.hpp">
+      <Filter>Source Files\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Hero\Hero.hxx">
+      <Filter>Source Files\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Enemy\Enemy.hpp">
+      <Filter>Source Files\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Enemy\Enemy.hxx">
+      <Filter>Source Files\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Rocket\Rocket.hpp">
+      <Filter>Source Files\Rocket</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Rocket\Rocket.hxx">
+      <Filter>Source Files\Rocket</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Scenes\GameScene.hpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Scenes\MenuScene.hpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Scenes\GameScene.hxx">
+      <Filter>Source Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Scenes\MenuScene.hxx">
+      <Filter>Source Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Explosion\Explosion.hpp">
+      <Filter>Source Files\Explosion</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Explosion\Explosion.hxx">
+      <Filter>Source Files\Explosion</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Scenes\ControlsScene.hxx">
+      <Filter>Source Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\Scenes\ControlsScene.hpp">
+      <Filter>Source Files\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\SceneController\SceneController.hpp">
+      <Filter>Source Files\SceneController</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\SceneController\SceneController.hxx">
+      <Filter>Source Files\SceneController</Filter>
+    </ClInclude>
+    <ClInclude Include="Includes\LibWrap.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Bazooka.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
