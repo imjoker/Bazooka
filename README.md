@@ -10,5 +10,7 @@ Bazooka is a multi-level platform game, where the player has to save his/her vil
 - The ratio of number of bazooka per each enemy decreases with each level
 - Music
   - Different music to suit the situation/conext of the moment in the game. Example: Music before battle starts (during level description), Music when won, Music when lost.
-- Navigation
+- **Navigation:**
+  - Clicking Escape returns the player from any non-Menu scene, back to the Menu.
+  - To exit game: Can select Exit option provided in the Menu. Alternatively, can also click Escape when in the Menu.
 
