@@ -8,7 +8,7 @@ Bazooka is a multi-level platform game, where the player has to save his/her vil
   -  Currently the game has 3 levels.
   - Speed of the enemy increases with each level
   - Time gap between the two consecutive enemy spawn reduces with each level
-  - The ratio of number of bazooka per each enemy decreases with each level
+  - The ratio of number of bazooka missiles per each enemy decreases with each level
 - **Background Music**
   - Using relevant background music as per the context of the game to get the right mood into the player.
 - **Navigation**
