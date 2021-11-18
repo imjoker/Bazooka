@@ -11,6 +11,8 @@ Bazooka is a multi-level platform game, where the player has to save his/her vil
   - The ratio of number of bazooka missiles per each enemy decreases with each level
 - **Background Music**
   - Using relevant background music as per the context of the game to get the right mood into the player.
+- **Animation**
+  - Animation of explosion when a bullet hit an enemy.
 - **Navigation**
   - Clicking Escape returns the player from any non-Menu scene, back to the Menu.
   - To exit game: Can select Exit option provided in the Menu. Alternatively, can also click Escape when in the Menu.
