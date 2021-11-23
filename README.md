@@ -10,7 +10,7 @@ Bazooka is a multi-level platform game, where the player has to save their villa
   - Time gap between the two consecutive enemy spawn reduces with each level.
   - Bazooka missiles available per enemy also reduces with each level.
 - **Animation**
-  - Animation of explosion when a missle hit an enemy.
+  - Animation of explosion when a missle hits an enemy.
 - **Background Music**
   - Using relevant background music as per the context of the game to get the right mood into the player.
     - Intense music during the story narrative before each level starts.
