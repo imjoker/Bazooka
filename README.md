@@ -12,9 +12,9 @@ Bazooka is a multi-level platform game, where the player has to save their villa
 - **Background Music**
   - Using relevant background music as per the context of the game to get the right mood into the player.
     - Intense music during the story narrative before each level starts.
-    - War triumphant music when the player wins the game
-    - Sad and slow music when the player loses the game
-    - Fun music during the game
+    - War triumphant music when the player wins the game.
+    - Sad and slow music when the player loses the game.
+    - Fun music during the game.
 - **Story Narrative**
   - Communicated using text form currently. 
   - Comes before each level to setup a story context, indirectly conveying the increased difficulty for each level, and to communicate the target and motive.
