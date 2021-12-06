@@ -1,5 +1,4 @@
 # Bazooka
-# WIP
 
 Bazooka is a multi-level platform game where the player has to save their village by shooting the enemies with the bazooka and stopping them from going beyond the defense point (the player). A story narrative sets up the context, motive, and involvement for the player.
 
