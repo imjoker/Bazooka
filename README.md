@@ -1,19 +1,19 @@
 # Bazooka
 
-Bazooka is a multi-level platform game where the player has to save their village by shooting the enemies with the bazooka and stopping them from going beyond the last defense, the player themself. A story narrative sets up the context, motive, and involvement for the player.
+Bazooka is a multi-level platform game where the player has to save their village by shooting the enemies with the bazooka and stopping them from going beyond the last defense, the player themself. A story narrative sets up the game's context, motive, and player involvement.
 
 ### Features include:
 - **Multiple Levels**
   -	Currently, the game has three levels.
   - Bazooka missiles available per enemy reduce with the progression of levels to make it challenging.
   -	The speed of the enemy increases with each level to increase the difficulty.
-  -	Within the same level, the speed of enemy is directly proportional to the height at which they are coming from.
+  -	Within the same level, the enemy's speed is directly proportional to the height from which they are coming.
   -	The time gap between the two consecutive enemy spawn reduces with each level.
 - **Animation**
   - Animation of explosion when a missile hits an enemy.
   - Animation of player to show shuttering of eyes.
 - **Background Music**
-  - Using relevant background music as per the context of the game to get the right mood for the player. 
+  - Used relevant background music as per the context of the game to get the right mood for the player. 
     - Intense music during the story narrative before each level starts.
     - War triumphant music when a player wins the game.
     - Sad and slow music when a player loses the game.
